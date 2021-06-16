@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/music-website/static/js/main.b711b41f.chunk.js",
+    "main.js.map": "/music-website/static/js/main.b711b41f.chunk.js.map",
+    "runtime-main.js": "/music-website/static/js/runtime-main.d926b277.js",
+    "runtime-main.js.map": "/music-website/static/js/runtime-main.d926b277.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/music-website/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.caaaaf84.chunk.js": "/music-website/static/js/2.caaaaf84.chunk.js",
+    "static/js/2.caaaaf84.chunk.js.map": "/music-website/static/js/2.caaaaf84.chunk.js.map",
+    "index.html": "/music-website/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/music-website/static/css/2.61b4cb56.chunk.css.map",
+    "static/js/2.caaaaf84.chunk.js.LICENSE.txt": "/music-website/static/js/2.caaaaf84.chunk.js.LICENSE.txt",
+    "static/media/bassguitar.e2cfb448.jpg": "/music-website/static/media/bassguitar.e2cfb448.jpg",
+    "static/media/drum.e6f6e8cb.jpg": "/music-website/static/media/drum.e6f6e8cb.jpg",
+    "static/media/greenpiano.3d1e673e.jpg": "/music-website/static/media/greenpiano.3d1e673e.jpg",
+    "static/media/metro.391b70cd.jpg": "/music-website/static/media/metro.391b70cd.jpg",
+    "static/media/mic.d0a3e8fa.jpg": "/music-website/static/media/mic.d0a3e8fa.jpg",
+    "static/media/piano.b2e0975d.jpg": "/music-website/static/media/piano.b2e0975d.jpg",
+    "static/media/staff.4e0a4888.jpg": "/music-website/static/media/staff.4e0a4888.jpg",
+    "static/media/studio.c8a7668c.jpg": "/music-website/static/media/studio.c8a7668c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d926b277.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.caaaaf84.chunk.js",
+    "static/js/main.b711b41f.chunk.js"
+  ]
+}
